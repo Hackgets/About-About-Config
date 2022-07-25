@@ -1,0 +1,4 @@
+- `alerts.useSystemBackend` TrueでFirefoxの通知がWindowsの通知になる。
+- `browser.urlbar.openintab` Trueでアドレスバーの入力は新しいタブを開く。
+- `gfx.font_rendering.cleartype_params.rendering_mode` 5でフォントのレンダリング方式が Natural Symmetric になる。
+- `gfx.windows-font-substitutes.always` TrueでWindowsのレジストリに従ってフォントを置き換える。
