@@ -1,6 +1,3 @@
-- `alerts.useSystemBackend` TrueでFirefoxの通知がOSの通知になる。
 - `browser.compactmode.show` Trueでコンパクトモードが復活する。
 - `browser.urlbar.openintab` Trueでアドレスバーの入力は新しいタブを開く。
-- `layout.css.system-ui.enabled` FalseでCSSの `font-family: system-ui` を無効化。
-- `browser.tabs.unloadOnLowMemory` [サポートの記事](https://support.mozilla.org/ja/kb/unload-inactive-tabs-save-system-memory-firefox)ではデフォルトで有効のように書かれているが、僕の環境ではTrueに変更しなければ有効にならなかった。
 - `signon.management.page.fileImport.enabled` Trueでパスワードのインポートが出来る…が、なぜエクスポートは出来るのにインポートだけ出来なくしたのか？
