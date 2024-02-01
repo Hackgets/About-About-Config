@@ -1,3 +1,3 @@
 - `browser.compactmode.show` Trueでコンパクトモードが復活する。
 - `browser.urlbar.openintab` Trueでアドレスバーの入力は新しいタブを開く。
-- `signon.management.page.fileImport.enabled` Trueでパスワードのインポートが出来る…が、なぜエクスポートは出来るのにインポートだけ出来なくしたのか？
+- `signon.management.page.fileImport.enabled` Trueでパスワードのインポートが出来る。
